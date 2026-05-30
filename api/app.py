@@ -17,9 +17,9 @@ usuarios = [
         "telefone": "(14) 19283-4390"
     },
     {
-        "nome": "",
-        "email": "carla.mendes@email.com",
-        "telefone": "(14) 97777-3333"
+        "nome": "Joseph Joestar",
+        "email": "joseph.joestar@email.com",
+        "telefone": "(14) 28374-9283"
     }
 ]
 
